@@ -1,0 +1,1 @@
+You should download the latest map, name it "osrs_world_map_august_2014.png" and put it in this folder.
